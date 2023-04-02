@@ -1,5 +1,7 @@
 # 4eva-warm
-Forever warm
+Forever warm, Forever l o v e 
+
+Alo na V
 
 My mobile iOS code repo 4eva
 Things are going very well, except I need a certain number.  Someone else must provide for me like AB1234456 .  My convention coding is to leave an intentional space after the string defined.
